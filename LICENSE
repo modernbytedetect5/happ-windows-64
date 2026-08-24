@@ -1,0 +1,11 @@
+Happ Windows 64 — distribution / documentation mirror
+
+The packaged application is based on the upstream open-source project:
+Happ-proxy/happ-desktop
+https://github.com/Happ-proxy/happ-desktop
+
+License of the upstream software: upstream terms.
+See the upstream repository for full license texts and source code.
+
+This repository provides Windows portable packaging, README, and release
+archives. It is not the official upstream source tree.
